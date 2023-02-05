@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "cname": "Connecting Us",
+        "role": "Assistant Manager",
+        "experience": "10 years",
+        "location":"Hyderabad"
+    },
+    {
+        "id": 2,
+        "cname": "Connecting them",
+        "role": "Manager",
+        "experience": "1 year" ,
+        "location":"Bengaluru"
+    }
+]
